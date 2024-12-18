@@ -8,7 +8,7 @@ def seiveprime():
     for i in range(2,sq+1):
            if l[i]==True:
                for j in range(i*i,51,i):
-                   l[i]=False
+                   l[j]=False
     print(l)
 ##n=int(input())
 ##l,r=map(int,input().split())
