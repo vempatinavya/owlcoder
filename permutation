@@ -1,0 +1,4 @@
+def 
+l=list('123')
+for i in permutation(l):
+  print(i)
