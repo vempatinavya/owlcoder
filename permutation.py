@@ -13,3 +13,4 @@ def permutation(l):
 l=list('2346')
 for i in permutation(l):
   print(i)
+#this code is only for single digit numbers like 2 4 5 6 not for 10 13 like that
